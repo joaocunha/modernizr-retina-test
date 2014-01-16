@@ -1,7 +1,7 @@
 Modernizr Retina Test
 =====================
 
-A simple and quick Modernizr test for retina / high resolution / high pixel density.
+A simple and quick Modernizr test for retina / high resolution / high pixel density. Should run in less than half a milisecond.
 
 ```js
 /**
