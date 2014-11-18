@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "homepage": "https://github.com/joaocunha/modernizr-retina-test",
   "authors": [
-    "Joao Cunha <ido@notknow.com>"
+    "João Cunha <joao@joaocunha.net>"
   ],
   "description": "A simple and quick Modernizr test for retina / high resolution / high pixel density.",
   "keywords": [
