@@ -3,7 +3,7 @@ Modernizr Retina Test
 
 A simple and quick Modernizr test for retina / high resolution / high pixel density. Should run in less than half a milisecond.
 
-It's worth mentioning that [there is no consensus](https://github.com/Modernizr/Modernizr/pull/443#issuecomment-17892010) on what can be considered "high resolution" - some devices offer 1.3dpr, some 1.5dpr, some 2dpr, etc. For the sake of making things easier, we are considering any pixel density ratio above 1 as high resolution.
+It's worth mentioning that while [there is no consensus](https://github.com/Modernizr/Modernizr/pull/443#issuecomment-17892010) on what can be considered "high resolution" -some devices offer 1.3dpr, some 1.5dpr, some 2dpr, etc- for the sake of making things easier, we are considering any pixel density ratio above 1 as high resolution.
 
 ```js
 /**
